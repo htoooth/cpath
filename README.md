@@ -10,7 +10,7 @@ To install cli.go, simply run:
 
 And install cpath.go, simply run:
 
-    $ go get github.com/htoo/cpath
+    $ go get github.com/htoooth/cpath
     
 ## Getting Started
 Currently cpath.go support **windows7 only** because I'm working at windows7 and use some windows commands, such as SETX. Make sure your PATH includes to the `$GOPATH/bin` directory so your commands can be easily used:
